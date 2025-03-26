@@ -1,0 +1,13 @@
+#adi{
+    font-family: 'Times New Roman', Times, serif;
+ height: 200vh;
+ background-repeat: no-repeat;
+    background-image:url("https://ocem.com/wp-content/uploads/2024/03/Picture-8-.jpg")
+}
+
+*{
+    margin: 0;
+    padding: 0;
+}
+
+
